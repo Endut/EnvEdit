@@ -170,6 +170,6 @@ EnvEdit {
 }
 
 
-//I am using node and envView.selection.  Pick one.
+// I am using node and envView.selection.  Pick one.
 //I need a check if bounds is nil.
 //I need a method to change the resize.
